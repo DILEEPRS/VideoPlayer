@@ -1,5 +1,4 @@
 import Header from "./Header";
-import "./App.css";
 import Nav from "./Nav";
 import { Outlet, createBrowserRouter } from "react-router-dom";
 import Body from "./Body";
